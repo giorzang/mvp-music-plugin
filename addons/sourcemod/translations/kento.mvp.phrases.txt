@@ -9,8 +9,8 @@
 {
 	"Selected Random"
 	{
-		"en"			"{GREEN}[MVP] {NORMAL}Your MVP Anthem will be a {PINK}random {NORMAL}one every round."
-		"pt"			"{GREEN}[MVP] {NORMAL}Seu MVP será {PINK}aleatório {NORMAL}a cada rodada."
+		"en"			"{GREEN}[Zang] {NORMAL}Your MVP Anthem will be a {PINK}random {NORMAL}one every round."
+		"pt"			"{GREEN}[Zang] {NORMAL}Seu MVP será {PINK}aleatório {NORMAL}a cada rodada."
 	}
 	"Random MVP"
 	{
@@ -71,34 +71,34 @@
 	}
 	"No Flag"
 	{
-		"en"			"{GREEN}[MVP] {RED}You don't have access to choose this MVP anthem."
-		"zho"			"{GREEN}[MVP] {RED}你沒有使用這個 MVP 音樂的權限."
-		"pt"			"{GREEN}[MVP] {RED}Você não tem acesso para escolher este MVP."
+		"en"			"{GREEN}[Zang] {RED}You don't have access to choose this MVP anthem."
+		"zho"			"{GREEN}[Zang] {RED}你沒有使用這個 MVP 音樂的權限."
+		"pt"			"{GREEN}[Zang] {RED}Você não tem acesso para escolher este MVP."
 	}	
 	"Selected"
 	{
 		"#format"		"{1:s}"
-		"en"			"{GREEN}[MVP] {NORMAL}Your MVP Anthem is {PINK}{1}"
-		"zho"			"{GREEN}[MVP] {NORMAL}你的MVP音樂是{PINK}{1}"
-		"pt"			"{GREEN}[MVP] {NORMAL}Seu MVP é {PINK}{1}"
+		"en"			"{GREEN}[Zang] {NORMAL}Your MVP Anthem is {PINK}{1}"
+		"zho"			"{GREEN}[Zang] {NORMAL}你的MVP音樂是{PINK}{1}"
+		"pt"			"{GREEN}[Zang] {NORMAL}Seu MVP é {PINK}{1}"
 	}	
 	"No Selected"
 	{
-		"en"			"{GREEN}[MVP] {NORMAL}Your MVP Anthem is {PINK}No MVP Anthem{NORMAL}."
-		"zho"			"{GREEN}[MVP] {NORMAL}你的MVP音樂是{PINK}無MVP音樂{NORMAL}."
-		"pt"			"{GREEN}[MVP] {NORMAL}Não selecionou {PINK}nenhum MVP{NORMAL}."
+		"en"			"{GREEN}[Zang] {NORMAL}Your MVP Anthem is {PINK}No MVP Anthem{NORMAL}."
+		"zho"			"{GREEN}[Zang] {NORMAL}你的MVP音樂是{PINK}無MVP音樂{NORMAL}."
+		"pt"			"{GREEN}[Zang] {NORMAL}Não selecionou {PINK}nenhum MVP{NORMAL}."
 	}	
 	"Volume 1"
 	{
-		"en"			"{GREEN}[MVP] {NORMAL}Volume values must be {RED}0.0 - 1.0"
-		"zho"			"{GREEN}[MVP] {NORMAL}音量大小限制為 {RED}0.0 - 1.0"
-		"pt"			"{GREEN}[MVP] {NORMAL}Valores do volume devem ser {RED}0.0 - 1.0"
+		"en"			"{GREEN}[Zang] {NORMAL}Volume values must be {RED}0.0 - 1.0"
+		"zho"			"{GREEN}[Zang] {NORMAL}音量大小限制為 {RED}0.0 - 1.0"
+		"pt"			"{GREEN}[Zang] {NORMAL}Valores do volume devem ser {RED}0.0 - 1.0"
 	}	
 	"Volume 2"
 	{
 		"#format"		"{1:.2f}"
-		"en"			"{GREEN}[MVP] {NORMAL}Volume is set to {PINK}{1}"
-		"zho"			"{GREEN}[MVP] {NORMAL}音量設定為 {PINK}{1}"
-		"pt"			"{GREEN}[MVP] {NORMAL}Volume está definido como {PINK}{1}"
+		"en"			"{GREEN}[Zang] {NORMAL}Volume is set to {PINK}{1}"
+		"zho"			"{GREEN}[Zang] {NORMAL}音量設定為 {PINK}{1}"
+		"pt"			"{GREEN}[Zang] {NORMAL}Volume está definido como {PINK}{1}"
 	}
 }	
